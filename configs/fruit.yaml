@@ -1,0 +1,12 @@
+# configs/fruit.yaml
+path: ./data
+
+train: images/train
+val: images/val
+
+names:
+  0: apple
+  1: banana
+  2: orange
+  3: grape
+  4: strawberry
